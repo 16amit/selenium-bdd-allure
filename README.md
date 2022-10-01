@@ -1,4 +1,4 @@
-Spring boot project for automation using Selenium, Cucumber, Allure and AOP
+It is a Spring boot project for automation using Selenium, Cucumber, Allure and AOP
 
 To run the <b>Cucumber tests</b>, use the command below:
 
